@@ -1,1 +1,3 @@
 # This is the checklist for the web applications penetration testing.
+CSV Injection Payloads:
+  where you can insert data directly like [user creation, sign up] Pages.
